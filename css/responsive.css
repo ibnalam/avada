@@ -1,0 +1,652 @@
+
+@media (min-width:321px) and (max-width:575.99px){
+    nav .navbar-brand img {
+        width: 50%;
+    }
+    
+.navbar-toggler {
+    padding: 0;
+}
+
+nav button i{
+    color: #fff;
+}
+
+
+.navbar-collapse {
+    padding: 20px;
+    text-align: center;
+    background: #0F4152;
+}
+
+nav .fbtn {
+    padding: 10px 20px;
+}
+
+.banner h1 {
+	font-size: 28px;
+	width: auto;
+    margin-top: -156px;
+}
+
+.banner .fbtn {
+	padding: 11px 7px;
+	margin: 0 2px;
+	margin-top: 29px;
+}
+
+.banner {
+	padding-bottom: 100px;
+}
+
+.discover h3 {
+	font-size: 19px;
+}
+
+.discover h2 {
+	font-size: 25px;
+}
+
+.discover p {
+	font-size: 14px;
+}
+.discover ul i {
+	margin-right: 6px;
+}
+.discover ul {
+	font-size: 14px;
+}
+
+.discover ul li {
+	margin-top: 15px;
+}
+.discover .fbtn {
+	padding: 10px 3px;
+	margin-top: 5px;
+}
+.discover img {
+	display: none;
+}
+
+.counter {
+	margin-top: 40px;
+}
+
+.counter .item1 h4 {
+	font-size: 50px;
+}
+.counter .item1 p {
+	font-size: 14px;
+}
+
+.counter .item2 h4 {
+	font-size: 50px;
+}
+.counter .item2 p {
+	font-size: 14px;
+}
+
+
+.counter .item3 h4 {
+	font-size: 50px;
+}
+.counter .item3 p {
+	font-size: 14px;
+}
+
+.counter .item4 h4 {
+	font-size: 50px;
+}
+
+.counter .item4 p {
+	font-size: 14px;
+}
+
+.row > * {
+	margin-bottom: 15px;
+}
+
+
+.activity {
+	margin-top: 70px;
+}
+.activity h3 {
+	font-size: 20px;
+	margin-top: -60px;
+}
+.activity h2 {
+	font-size: 30px;
+}
+.activity h2::after {
+	bottom: -12px;
+}
+
+.activity p {
+	font-size: 14px;
+}
+
+.extreme .title h2 {
+	font-size: 70px;
+}
+
+.extreme .box .img {
+	top: 187px;
+	left: -103px;
+}
+
+.extreme .box {
+	margin-top: 50px;
+}
+
+.extreme h3 {
+	font-size: 25px;
+}
+
+.extreme p {
+	padding-top: 6px;
+	font-size: 14px;
+}
+.extreme .fbtn {
+	margin-top: 9px;
+	padding: 14px 50px;
+}
+
+
+
+.extreme .overlay .details h4 {
+	font-size: 25px;
+}
+
+.extreme .overlay .details h6 {
+	font-size: 17px;
+}
+
+.extreme .overlay .details h6::after {
+	width: 200px;
+	top: 37px;
+}
+
+.extreme .overlay .details p {
+	font-size: 13px;
+    margin-top: 38px;
+}
+
+.extreme .overlay .details p i {
+	width: 20px;
+	height: 20px;
+	line-height: 25px;
+}
+
+.extreme .overlay-case {
+	top: 0px;
+}
+
+.extreme .overlay-case:hover {
+	top: 0px;
+}
+
+.choose-us {
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+
+.choose-us .title h2 {
+	font-size: 20px;
+}
+
+.choose-us .title h4 {
+	font-size: 25px;
+}
+.choose-us .col-lg-3 h3 {
+	padding-top: 25px;
+	font-size: 20px;
+}
+.choose-us .col-lg-3 p {
+	padding-top: 1px;
+	font-size: 14px;
+}
+
+.choose-us .col-lg-3 img, svg {
+	width: 25%;
+}
+
+
+.choose-us .col-lg-3 {
+	margin-top: 30px;
+}
+
+
+
+.news h3 {
+	font-size: 20px;
+}
+
+.news h2 {
+	font-size: 25px;
+}
+
+.news {
+	padding-bottom: 100px;
+}
+
+.news .row .col-lg-4 {
+	padding-top: 33px;
+}
+.news .col-lg-8 .box p {
+	padding-top: 25px;
+	font-size: 14px;
+}
+
+
+.news .row .col-lg-4 img, svg {
+	vertical-align: middle;
+	width: 100%;
+}
+
+.news .row .col-lg-4 h4 {
+	padding-top: 27px;
+	font-size: 18px;
+	width: 261px;
+}
+
+.news .row .col-lg-4 p {
+	padding-top: 8px;
+	font-size: 14px;
+	width: 279px;
+}
+.news .p2 a {
+	margin: 55px 98px;
+	font-size: 17px;
+	width: 120px;
+}
+
+.sponsor .col {
+	flex: 1 0 0%;
+	width: 50%;
+}
+
+
+.footer .img {
+	display: none;
+}
+.footer .col-lg-8 img {
+	margin-left: 0px;
+	width: 189px;
+}
+
+.footer .col-lg-8 .col-lg-3 {
+	margin-left: 0px;
+}
+
+.footer .col-lg-8 .col-lg-5 {
+	margin-left: 204px;
+	width: 379px;
+	position: absolute;
+}
+
+.footer .col-lg-8 .row::after {
+	bottom: -41px;
+	left: 10px;
+	width: 554px;
+}
+
+.footer .box .left a {
+	left: 0px;
+	font-size: 21px;
+}
+
+.footer .box .left a::after {
+	bottom: -12px;
+}
+
+.footer .box .right {
+	margin-left: -169px;
+}
+
+.footer .box .right ul li {
+	margin-bottom: 7px;
+}
+
+.footer .copy {
+	font-size: 15px;
+	margin-left: 73px;
+}
+
+
+
+
+
+
+}
+
+
+@media (min-width:576px) and (max-width:767.99px){
+    nav .navbar-brand img {
+        width: 50%;
+    }
+    
+.navbar-toggler {
+    padding: 0;
+}
+
+nav button i{
+    color: #fff;
+}
+
+
+.navbar-collapse {
+    padding: 20px;
+    text-align: center;
+    background: #0F4152;
+}
+
+nav .fbtn {
+    padding: 10px 20px;
+}
+
+.banner h1 {
+	font-size: 28px;
+	width: auto;
+    margin-top: -156px;
+}
+
+.banner .fbtn {
+	padding: 11px 7px;
+	margin: 0 2px;
+	margin-top: 29px;
+}
+
+.banner {
+	padding-bottom: 100px;
+}
+
+.discover h3 {
+	font-size: 19px;
+}
+
+.discover h2 {
+	font-size: 25px;
+}
+
+.discover p {
+	font-size: 14px;
+}
+.discover ul i {
+	margin-right: 6px;
+}
+.discover ul {
+	font-size: 14px;
+}
+
+.discover ul li {
+	margin-top: 15px;
+}
+.discover .fbtn {
+	padding: 10px 3px;
+	margin-top: 5px;
+}
+.discover img {
+	display: none;
+}
+
+.counter {
+	margin-top: 40px;
+}
+
+.counter .item1 h4 {
+	font-size: 50px;
+}
+.counter .item1 p {
+	font-size: 14px;
+}
+
+.counter .item2 h4 {
+	font-size: 50px;
+}
+.counter .item2 p {
+	font-size: 14px;
+}
+
+
+.counter .item3 h4 {
+	font-size: 50px;
+}
+.counter .item3 p {
+	font-size: 14px;
+}
+
+.counter .item4 h4 {
+	font-size: 50px;
+}
+
+.counter .item4 p {
+	font-size: 14px;
+}
+
+.row > * {
+	margin-bottom: 15px;
+}
+
+
+.activity {
+	margin-top: 70px;
+}
+.activity h3 {
+	font-size: 20px;
+	margin-top: -60px;
+}
+.activity h2 {
+	font-size: 30px;
+}
+.activity h2::after {
+	bottom: -12px;
+}
+
+.activity p {
+	font-size: 14px;
+}
+
+.extreme .title h2 {
+	font-size: 70px;
+}
+
+
+.extreme .box .img {
+	top: 116px;
+	left: -103px;
+}
+
+.extreme .box {
+	margin-top: 50px;
+}
+
+.extreme h3 {
+	font-size: 25px;
+}
+
+.extreme p {
+	padding-top: 6px;
+	font-size: 14px;
+}
+.extreme .fbtn {
+	margin-top: 9px;
+	padding: 14px 50px;
+}
+
+
+
+.extreme .overlay .details h4 {
+	font-size: 25px;
+}
+
+.extreme .overlay .details h6 {
+	font-size: 17px;
+}
+
+.extreme .overlay .details h6::after {
+	width: 200px;
+	top: 37px;
+}
+
+.extreme .overlay .details p {
+	font-size: 13px;
+    margin-top: 38px;
+}
+
+.extreme .overlay .details p i {
+	width: 20px;
+	height: 20px;
+	line-height: 25px;
+}
+
+.extreme .overlay-case {
+	top: 0px;
+}
+
+.extreme .overlay-case:hover {
+	top: 0px;
+}
+
+.choose-us {
+	margin-top: 50px;
+	padding-bottom: 50px;
+}
+
+.choose-us .title h2 {
+	font-size: 20px;
+}
+
+.choose-us .title h4 {
+	font-size: 25px;
+}
+.choose-us .col-lg-3 h3 {
+	padding-top: 25px;
+	font-size: 20px;
+}
+.choose-us .col-lg-3 p {
+	padding-top: 1px;
+	font-size: 14px;
+}
+
+.choose-us .col-lg-3 img, svg {
+	width: 25%;
+}
+
+
+.choose-us .col-lg-3 {
+	margin-top: 30px;
+}
+
+
+
+.news h3 {
+	font-size: 20px;
+}
+
+.news h2 {
+	font-size: 25px;
+}
+
+.news {
+	padding-bottom: 100px;
+}
+
+.news .row .col-lg-4 {
+	padding-top: 33px;
+}
+
+.news .col-lg-8 .box p {
+	padding-top: 25px;
+	font-size: 14px;
+}
+.news .col-lg-4 p::after {
+	bottom: -19px;
+}
+
+.news .row .col-lg-4 img, svg {
+	vertical-align: middle;
+	width: 100%;
+}
+
+.news .row .col-lg-4 h4 {
+	padding-top: 27px;
+	font-size: 18px;
+	width: 261px;
+}
+.news .row .col-lg-4 p {
+	padding-top: 8px;
+	width: 373px;
+	margin-left: 78px;
+}
+
+.news .p2 a {
+	margin: 10px 210px;
+	font-size: 17px;
+	width: 120px;
+}
+
+.sponsor .col {
+	flex: 1 0 0%;
+	width: 50%;
+}
+
+
+.footer .img {
+	display: none;
+}
+.footer .col-lg-8 img {
+	margin-left: 0px;
+	width: 189px;
+}
+
+.footer .col-lg-8 .col-lg-3 {
+	margin-left: 0px;
+}
+
+.footer .col-lg-8 .col-lg-5 {
+	margin-left: 204px;
+	width: 379px;
+	position: absolute;
+}
+
+.footer .col-lg-8 .row::after {
+	bottom: -41px;
+	left: 10px;
+	width: 554px;
+}
+
+.footer .box .left a {
+	left: 0px;
+	font-size: 20px;
+}
+
+.footer .box .left a::after {
+	bottom: -12px;
+}
+
+.footer .box .right {
+	margin-left: -169px;
+}
+
+.footer .box .right ul li {
+	margin-bottom: 7px;
+}
+
+.footer .copy {
+	font-size: 15px;
+	margin-left: 73px;
+}
+
+}
+
+@media (min-width:768px) and (max-width:991.99px) {
+	 
+}
+
+
+
+
+
+
+
+
